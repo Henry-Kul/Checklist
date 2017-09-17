@@ -1,0 +1,17 @@
+/*styles.css*/
+
+body {
+ background-color: #000000;
+ color: #FFFFFF;
+}
+#p1 {
+background-color: #003007;
+ text-align: center;
+ border: 3px groove #FFFF33;
+}
+#p2 {
+	text-align: left;
+}
+.ideas {
+	color: #f402c0;
+}
